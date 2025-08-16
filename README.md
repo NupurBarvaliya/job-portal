@@ -1,4 +1,4 @@
-# job-portal
+# JOB PORTAL SYSTEM
 CareerPulse, a cutting-edge online platform meticulously designed to bridge the gap between talent and opportunity. CareerPulse embodies a commitment to simplifying the job search process, empowering both job seekers and employers with a seamless, intuitive, and efficient interface. 
 
 Enhanced dashboard efficiency by 30% through optimization of complex SQL queries. Developed robust backend services for data cleaning, transformation, and validation. collaborated with the UI/UX team to deliver advanced search and analytics capabilities using optimized SQL. Created comprehensive technical documentation, including ER diagrams and workflows, and maintained version control with Git. Operated within Agile development cycles, incorporating feedback and mentorship into continuous improvements.
